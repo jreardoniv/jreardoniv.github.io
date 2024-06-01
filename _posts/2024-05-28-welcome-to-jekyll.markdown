@@ -2,8 +2,15 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2024-05-28 22:35:28 +0000
-categories: jekyll update
+categories: work
+tags: education
+description: This is an article about education
+header:
+  overlay_image: https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bmlnaHQlMjBza3l8ZW58MHx8MHx8fDA%3D
+  teaser: https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bmlnaHQlMjBza3l8ZW58MHx8MHx8fDA%3D
+  caption: "Photo Credit: [Unsplash: Ryan Hutton](https://unsplash.com/@ryan_hutton_) "
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
