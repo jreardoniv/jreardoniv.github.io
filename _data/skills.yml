@@ -1,17 +1,21 @@
 technical:
  - title: Python
    level: Intermediate
- - title: CSS and SCSS
+ - title: Data Analysis
+   level: Expert
+ - title: Project Management
    level: Intermediate
- - title: HTML5
-   level: Intermediate
- - title: JavaScrpt
-   level: Intermediate
- - title: ReactJS
-   level: Intermediate
+ - title: Information Security
+   level: Expert
+ - title: MS Office
+   level: Expert
 
 soft:
- - title: Writing
-   level: Intermediate
+ - title: Analysis
+   level: Expert
  - title: Leadership
    level: Intermediate
+ - title: Adaptability
+   level: Expert
+ - title: Self-starter
+   level: Expert

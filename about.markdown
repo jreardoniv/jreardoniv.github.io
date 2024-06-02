@@ -12,7 +12,7 @@ I am an accomplished IT professional with a robust foundation in cybersecurity f
 
 My areas of expertise include Systems & Networking Security, Cloud Security, Cyber-Incident Response, Cyber Defense, Risk Management, and Vulnerability Management, among others. My technical proficiencies span Python, VS Code Studio, SIEM Software, SQL, Linux, Mac, Windows, SAP, Agile, and more. Passionate about continuous learning, I earned a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University and hold numerous certifications, including CompTIA Cybersecurity Analyst (CySA+), CompTIA PenTest+, and ISC2 System Security Certified Practitioner (SSCP). My professional experience includes freelance work for Memeotech, roles at Personalis and Pacific Biosciences, and leading teams at Adecco @ Google. I am dedicated to leveraging my technical expertise, problem-solving skills, and commitment to excellence in contributing to the success of a dynamic organization, and I am eager to continue evolving my skills and acquiring new ones in the IT field.
 
-## My Skills
+## My Best Skills
 ### Technical Skills
 
 {% include technicalskills.md %}

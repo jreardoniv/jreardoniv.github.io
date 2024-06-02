@@ -1,7 +1,7 @@
 James Reardon IV:
   name        : "James Reardon IV"
-  bio         : "Let's talk about code! Reach out via the links below."
-  avatar      : "https://placehold.co/400"
+  bio         : "If you want to learn more! Please, reach out via the links below."
+  avatar      : "/assets/images/future_profile1.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
