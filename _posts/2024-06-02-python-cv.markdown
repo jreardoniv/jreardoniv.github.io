@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Python CV Project"
+date: 2024-06-02 18:14:00 +0000
+categories: projects
+tags: CV Project
+---
+
