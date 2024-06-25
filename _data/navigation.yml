@@ -4,6 +4,8 @@ main:
     url: "/"
   - title: "My Work"
     url: "/mywork"
+  - title: "Freelance Work"
+    url: "/freelancework"
   - title: "My Projects"
     url: "/myprojects"
   - title: "About Me"
